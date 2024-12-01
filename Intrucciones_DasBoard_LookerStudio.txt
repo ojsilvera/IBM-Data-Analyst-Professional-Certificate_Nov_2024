@@ -1,0 +1,60 @@
+Descripción general de la tarea
+
+En esta tarea, continuará trabajando con los datos de la encuesta de Kaggle de 2023 para crear un panel. Puede
+completar su panel final con IBM Cognos Analytics o Google Looker Studio . En este panel, creará lo siguiente:
+
+Componentes del tablero de mandos
+
+A. Pestaña de uso actual de la tecnología
+
+	Los 10 idiomas más hablados
+
+	Visualice los 10 principales lenguajes de programación con los que han trabajado los encuestados (`LanguageHaveWorkedWith`).
+
+	Las 10 mejores bases de datos
+
+	Visualice las 10 principales bases de datos con las que han trabajado los encuestados (`DatabaseHaveWorkedWith`).
+
+	Plataformas
+
+	Visualice las diferentes plataformas con las que han trabajado los encuestados (`PlatformHaveWorkedWith`).
+
+	Los 10 mejores frameworks web
+
+	Visualice los 10 principales marcos web con los que han trabajado los encuestados (`WebframeHaveWorkedWith`).
+
+B. Pestaña Tendencias tecnológicas futuras
+
+	Los 10 idiomas más deseados para el próximo año
+
+	Visualice los 10 principales lenguajes de programación que los encuestados desean aprender el próximo año (`LanguageWantToWorkWith`).
+
+	Las 10 bases de datos más deseadas para el próximo año
+
+	Visualice las 10 bases de datos principales que los encuestados desean aprender el próximo año (`DatabaseWantToWorkWith`).
+
+	Plataformas deseadas para el próximo año
+
+	Visualice las plataformas con las que los encuestados desean trabajar el próximo año (`PlatformWantToWorkWith`).
+
+	Los 10 principales frameworks web deseados para el próximo año
+
+	Visualice los 10 principales marcos web que los encuestados desean aprender el próximo año (`WebframeWantToWorkWith`).
+
+C. Pestaña de datos demográficos
+
+	Encuestado clasificado por género 
+
+	Visualice el número de encuestados clasificados por género (`Género`).
+
+	Recuento de encuestados por países
+
+	Visualice el número de encuestados de diferentes países (`País`).
+
+	Número de encuestados por edad
+
+	Visualice el número de encuestados en diferentes grupos de edad (`Edad`).
+
+	Recuento de encuestados por género y clasificados por nivel educativo
+
+	Visualice a los encuestados clasificados por género (Gender) y además categorizados por su nivel de educación (`EdLevel`).
